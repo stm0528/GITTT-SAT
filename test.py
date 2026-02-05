@@ -7,4 +7,4 @@ c=34
 g=78
 sat=c*g
 print("this is the sum of" ,sat)
-this is just a demo thing
+"this is just a demo thing"
