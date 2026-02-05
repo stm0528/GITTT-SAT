@@ -1,9 +1,9 @@
-a =45
+"""Demo arithmetic script."""
 
-b =56
+a = 45
+b = 56
 
-print(a+b)
+print(a + b)
 
-c =90
-
+c = 90
 print(c)
